@@ -9,10 +9,17 @@ h1{
 	margin-bottom:10px;
 	
 }
+<<<<<<< HEAD
 
-h1{
+h2{
 	color:#fff;
 	font-size:30px;
 	margin-bottom:5px;
 	
+=======
+p{
+	padding-left:50px;
+	font-size:20px;
+	color:red;
+>>>>>>> 779d85ae62a5c38afb3d9c996dcef96070ac2346
 }
